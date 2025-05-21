@@ -1,0 +1,25 @@
+{
+  "name": "ai_interview_service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wera4677/AI_interview_service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wera4677/AI_interview_service/issues"
+  },
+  "homepage": "https://github.com/wera4677/AI_interview_service#readme",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.812.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
